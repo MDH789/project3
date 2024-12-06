@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.hciProject3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/lightTeaGreen</item>
+        <item name="colorAccent">@color/mintGreen</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryDark">@color/lavender</item>
+    </style>
+
+    <style name="Theme.hciProject3" parent="Base.Theme.hciProject3" />
+
+    <style name="MyStyle">
+        <item name="android:textColor">@color/mintGreen</item>
+        <item name="android:background">@color/cambridgeBlue</item>
+    </style>style>
+
+    <style name="Button1">
+        <item name="android:textColor">@color/mintGreen</item>
+        <item name="android:background">@color/lightTeaGreen</item>
+    </style>style>
+
+    <style name="Button2">
+        <item name="android:textColor">@color/mintGreen</item>
+        <item name="android:background">@color/teaGreen</item>
+    </style>style>
+
+    <style name="Button3">
+        <item name="android:textColor">@color/mintGreen</item>
+        <item name="android:background">@color/lavender</item>
+    </style>style>
+</resources>
